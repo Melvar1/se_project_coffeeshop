@@ -1,8 +1,16 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+Welcome to the Triple Peaks Coffee Shop Website! This project is a simple, yet elegant website designed for a virtual coffee shop. It features a variety of pages to enhance user experience and offers a glimpse into what Triple Peaks Coffee Shop has to offer.
 
 ## Project features
+
+-Landing Page: The first impression of Triple Peaks Coffee Shop, welcoming visitors with its inviting design.
+-Menu Page: Showcases our coffee shop's delightful array of drinks and snacks.
+-Reservation Form: Allows customers to make reservations online with ease.
+-Contact Us Form: A convenient way for customers to reach out with inquiries or feedback.
+-Special Animation: Adds a unique, engaging element to the website, enhancing the overall user experience.
+
+## Technologies used
 
 - Semantic HTML5
 - Flexbox
@@ -13,4 +21,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+-Database Integration: To store and manage data from the reservation and contact forms, making our website more dynamic and interactive.
