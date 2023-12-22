@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   background-color: #0a2850;
+  color: #ffffff;
 }
 
 .about__title {
